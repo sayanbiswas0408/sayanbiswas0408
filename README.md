@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sayanbiswas2468@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16yhWVn7hpZeSVksSZ9znf-Q34ohOZaGI/view?usp=sharing](https://drive.google.com/file/d/16yhWVn7hpZeSVksSZ9znf-Q34ohOZaGI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16yhWVn7hpZeSVksSZ9znf-Q34ohOZaGI/view?usp=sharing](https://drive.google.com/file/d/1_KKLHLtYlivfax5S8nzSkldWiCcjjHIv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
