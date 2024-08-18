@@ -1,6 +1,6 @@
 <div align="center"> 
   
-<h2 align="center">Leetcode Info<h2>
+<h2 align="center">Coding Info<h2>
 
 
   
