@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <img  src="https://leetcard.jacoblin.cool/sayanbiswas2468?theme=dark&font=Nunito&ext=heatmap"  height="250px"/> 
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sayanbiswas2468" alt="GFG stats" height="323px"/>
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sayanbiswas2468" alt="GFG stats" height="255px"/>
 </p>
 
 <br/>
