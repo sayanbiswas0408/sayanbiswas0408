@@ -9,7 +9,7 @@
   <a href="https://leetcode.com/u/sayanbiswas2468/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
-  <img  src="https://leetcard.jacoblin.cool/sayanbiswas2468?theme=dark&font=Nunito&ext=heatmap" /> 
+  <img  src="https://leetcard.jacoblin.cool/sayanbiswas2468?theme=dark&font=Nunito&ext=heatmap"  height="250px"/> 
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sayanbiswas2468" alt="GFG stats" height="323px"/>
 </p>
 
